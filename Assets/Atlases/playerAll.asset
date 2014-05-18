@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 529336600, guid: 289bab7cc27a12745b5df9b71d7b06c4, type: 3}
+  m_Name: playerAll
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 584d220a559c4604886bc2c569526eb1, type: 2}
+  uvs:
+  - serializedVersion: 2
+    x: 0
+    y: 0
+    width: .5078125
+    height: .78125
+  textureGUIDs:
+  - 5f7916e5dab932144897a5958872140c
+  textureSizes:
+  - {x: 130, y: 200}
+  defaultPivotOffsets:
+  - {x: -.243770331, y: -.450704217}
+  textureNames:
+  - playerAll
+  texturePaths:
+  - Assets/Atlas Base Textures/player/playerAll.psd
+  lastBuildID: 2014051523221319
+  needsRebuilt: 0
+  dataVersion: 4
+  maxAtlasSize: 1024
+  padding: 1
+  forceSquare: 0
